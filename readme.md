@@ -5,7 +5,7 @@ A nodejs basic implementation of the Philips HUE Bridge that sents commands to X
 1. First install miio cli tool
 `npm install -g miio`
 
-Then start the device discovery see for more info
+2. Then start the device discovery see for more info
 `miio --discover`
 
 3. Add your lights in start.ts like this:
